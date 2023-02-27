@@ -1,0 +1,12 @@
+.slick-initialized .slick-slide
+{
+   text-align: center;
+}
+
+.slick-dots{
+  margin-bottom: 10px !important;
+}
+
+.slick-dots li button:before {
+  font-size: 10px !important;
+}
